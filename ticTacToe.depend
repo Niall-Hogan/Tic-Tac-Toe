@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1583328986 source:d:\cppprojects\tictactoe\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<chrono>
+	<thread>
+	<stdlib.h>
+	<time.h>
+
